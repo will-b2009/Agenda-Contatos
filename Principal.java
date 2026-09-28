@@ -12,7 +12,7 @@ public class Principal {
 
         System.out.println("==========================");
         System.out.println("    AGENDA DE CONTATOS");
-        System.out.println("        V.0.0.0");
+        System.out.println("        V.0.0.0"    );
         System.out.println("==========================");
 
         while (continuar) {
